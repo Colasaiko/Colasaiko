@@ -1,9 +1,12 @@
 # Hi, I'm Colasaiko 👋
+# 大家好，我是可乐
 
 **Building ideas with AI. Creating useful things for the web.**
+
 *借助 AI 探索灵感，构建实用的互联网产品。*
 
 Exploring AI, web development, internet tools, and independent digital projects.
+
 *持续探索人工智能、Web 开发、网络工具与独立数字项目。*
 
 ---
