@@ -13,7 +13,7 @@ Exploring AI, web development, internet tools, and independent digital projects.
 
 ## 🚀 Currently Building / 正在构建
 
-### [Runa iNav](https://runainav.com) — 🚧 In Development (建设中)
+### [RunAi](https://runainav.com) — 🚧 In Development (建设中)
 My upcoming focus project centering on AI tools, internet resources, and network utility guides.
 
 *接下来的核心发展项目，专注于 AI 工具、互联网资源与网络工具导航。*
@@ -34,7 +34,7 @@ A collection of websites and platforms I am currently building and maintaining:
 | **[VPN Clash](https://vpn-clash.net)** | VPN & Network Tools / 网络加速指南 | 🟢 Active |
 | **[机场猫](https://jichangmao.com)** | Airport Reviews & Guides / 节点资讯 | 🟢 Active |
 | **[Best 机场](https://bestjichang.com)** | Airport Comparison & Guides / 综合选择对比 | 🟢 Active |
-| **[Runa iNav](https://runainav.com)** | AI & Internet Resources / AI 与互联网导航 | 🚧 Building |
+| **[RunAI](https://runainav.com)** | AI & Internet Resources / AI 与互联网导航 | 🚧 Building |
 
 ---
 
