@@ -1,0 +1,32 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320">
+  <defs>
+    <style>
+      .bg { fill: #F7F3EA; }
+      .shape-cream { fill: #F1E8D8; }
+      .shape-khaki { fill: #E5D5BD; }
+      .text-title { font-family: system-ui, -apple-system, sans-serif; font-size: 64px; font-weight: 800; fill: #62574C; letter-spacing: 4px; }
+      .text-subtitle { font-family: system-ui, -apple-system, sans-serif; font-size: 24px; font-weight: 400; fill: #8A735B; }
+      .text-small { font-family: system-ui, -apple-system, sans-serif; font-size: 16px; font-weight: 400; fill: #B89B72; letter-spacing: 2px; }
+      .line { stroke: #E5D5BD; stroke-width: 2; fill: none; }
+      .accent-line { stroke: #B89B72; stroke-width: 4; stroke-linecap: round; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" class="bg" rx="16" />
+
+  <circle cx="1000" cy="80" r="150" class="shape-cream" />
+  <circle cx="150" cy="280" r="80" class="shape-khaki" opacity="0.6" />
+  <circle cx="1080" cy="240" r="60" class="shape-khaki" opacity="0.4" />
+  
+  <path d="M -50,150 Q 150,50 350,150 T 750,150 T 1250,150" class="line" opacity="0.5" />
+  <circle cx="850" cy="120" r="3" fill="#B89B72" />
+  <circle cx="920" cy="200" r="4" fill="#B89B72" opacity="0.6" />
+  <circle cx="300" cy="70" r="2" fill="#8A735B" opacity="0.4" />
+
+  <g transform="translate(120, 140)">
+    <line x1="0" y1="-60" x2="60" y2="-60" class="accent-line" />
+    <text x="0" y="0" class="text-title">COLASAIKO</text>
+    <text x="0" y="45" class="text-subtitle">Building ideas with AI, web, search &amp; digital projects.</text>
+    <text x="0" y="90" class="text-small">INDEPENDENT BUILDER · WEB EXPLORER · AI-ASSISTED CREATOR</text>
+  </g>
+</svg>

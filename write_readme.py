@@ -1,4 +1,4 @@
-<p align="center">
+﻿content = """<p align="center">
   <img src="./assets/profile-header.svg" width="100%" alt="Colasaiko Profile Header">
 </p>
 
@@ -131,3 +131,6 @@ A multi-year content archive focusing on stable network recommendations, deep-di
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=400&size=14&duration=4000&pause=2000&color=B89B72&center=true&vCenter=true&width=300&lines=Thanks+for+visiting+%E2%98%95" alt="Thanks for visiting" />
 </p>
+"""
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(content)
