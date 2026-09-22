@@ -44,6 +44,7 @@ AI 工具 · AI 教程 · 互联网资源 · 网络工具
 | Project / 项目 | Focus / 方向 | Stack / 技术 | Status / 状态 |
 |---|---|---|---|
 | **[RunAI](https://runainav.com)**<br><sup>[GitHub](https://github.com/Colasaiko/runainav)</sup> | AI Tools · AI Guides · Internet Resources<br>AI 工具 · AI 教程 · 互联网资源 | Next.js / React | 🟢 Active Development<br>持续开发中 |
+| **[Haiwai Journal · 海外志](https://haiwaijichang.online)**<br><sup>[GitHub](https://github.com/Colasaiko/Haiwai-Journal)</sup> | Airport Reviews · Network Knowledge · Clash Guides · Overseas Resources<br>机场测评 · 网络知识 · Clash 教程 · 海外资源 | Next.js / TypeScript | 🟢 Active Development<br>持续开发中 |
 | **[JichangBay.com](https://jichangbay.com)**<br><sup>[GitHub](https://github.com/Colasaiko/jichangbay.com)</sup> | Airport Comparison · VPN Guides · SEO Pillar Page<br>机场对比 · VPN 指南 · SEO Pillar Page | Hexo / JS | 🟢 Active<br>稳定运行 |
 | **[JichangBay Research](https://jichangbay.biz)**<br><sup>[GitHub](https://github.com/Colasaiko/jichangbay.biz)</sup> | Airport · VPN · Network Research<br>机场 · VPN · 网络研究 | Astro / TypeScript | 🟢 Active / Building<br>活跃构建中 |
 | **[JichangBlog](https://jichangblog.net)**<br><sup>[GitHub](https://github.com/Colasaiko/jichangblog.net)</sup> | Airport Reviews · Clash · Network Guides · AI<br>机场评测 · Clash · 网络教程 · AI | Multi-year Archive<br>跨年内容归档 | 🟢 Active<br>稳定运行 |
@@ -58,6 +59,10 @@ AI 工具 · AI 教程 · 互联网资源 · 网络工具
 **[RunAI](https://runainav.com)** ([GitHub](https://github.com/Colasaiko/runainav))  
 A modern AI tools and internet resources platform.  
 一个持续建设中的 AI 工具、教程与互联网资源平台。
+
+**[Haiwai Journal](https://haiwaijichang.online)** ([GitHub](https://github.com/Colasaiko/Haiwai-Journal))  
+A magazine-style content platform covering airport reviews, network knowledge and overseas guides.  
+一个以杂志阅读体验整理机场测评、网络知识与海外指南的内容平台。
 
 **[JichangBay](https://jichangbay.com)** ([GitHub](https://github.com/Colasaiko/jichangbay.com))  
 A structured airport and VPN comparison project.  
@@ -97,6 +102,9 @@ A long-form content blog with multi-year archives covering network, Clash and ai
 - **[RunAI](https://runainav.com)**
   — AI tools & internet resource platform
   — AI 工具与互联网资源平台
+- **[Haiwai Journal](https://haiwaijichang.online)**
+  — Magazine-style airport, network and overseas resource platform
+  — 杂志型机场、网络与海外资源内容平台
 - **[JichangBay](https://jichangbay.com)**
   — Airport comparison & buying guides
   — 机场对比与选购指南
@@ -118,9 +126,9 @@ A long-form content blog with multi-year archives covering network, Clash and ai
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colasaiko/Colasaiko/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colasaiko/Colasaiko/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Colasaiko/Colasaiko/output/github-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Colasaiko/Colasaiko/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Colasaiko/Colasaiko/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Colasaiko/Colasaiko/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
